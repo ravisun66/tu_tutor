@@ -52,3 +52,5 @@ group :production do
 	#Use postgresql in production as database
 	gem 'pg'
 end
+
+gem 'devise'
